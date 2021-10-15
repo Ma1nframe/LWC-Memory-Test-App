@@ -45,3 +45,6 @@ force-app/main/default/aura/
 force-app/main/default/pages/
 force-app/main/default/components/
 force-app/main/default/classes/
+
+#husky
+.husky
